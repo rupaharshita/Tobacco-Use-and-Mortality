@@ -23,7 +23,7 @@ Goal -
 
 To integrate epidemiological and economic data into a single interactive platform, enabling tracking of admissions, fatalities, mortality rates, disease patterns, smoker demographics, and tobacco price trends for informed decision-making.
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/rupaharshita/Tobacco-Use-and-Mortality/blob/main/Dashboard.png)
 
 Insights - 
 
